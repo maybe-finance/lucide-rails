@@ -5,16 +5,16 @@ source "https://rubygems.org"
 # Specify your gem's dependencies in lucide-rails.gemspec
 gemspec
 
-gem "rake", "~> 13.0"
+gem "rake"
 
-gem "rspec", "~> 3.0"
+gem "rspec"
 
-gem "rubocop", "~> 1.21"
+gem "rubocop"
 
-gem "byebug", "~> 11.1"
+gem "byebug"
 
-gem "simplecov", "~> 0.21.2", require: false
+gem "simplecov"
 
-gem "combustion", "~> 1.3"
+gem "combustion"
 
-gem "rspec-rails", "~> 5.1"
+gem "rspec-rails"
